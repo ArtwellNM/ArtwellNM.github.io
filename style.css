@@ -1,5 +1,8 @@
 #surname {
     text-align: center;
+    font-size:medium;
+    font-family: "Lucida Sans Typewriter"
+
 }
 
 .it {
@@ -15,21 +18,26 @@
 
 .body1 {
     border-radius: 2rem;
+    margin: 1%;
+    padding: 50px;
     border-style: solid;
-    margin: 5%;
     background-color: cornflowerblue;
+    font-size: large;
 }
 
 .profile {
     margin: 4rem;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
 }
 
-
-.dtails {
-
+.personalworks{
+    font-weight: lighter;
+    font-style: oblique;
 }
 
 .summary {
     list-style: square;
-
+    font-family: "sans-serif";
 }
